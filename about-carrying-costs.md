@@ -1,0 +1,3 @@
+# Concepto
+
+En el libro _From Pixar and Beyond_ el autor explica cómo en la industria del cine las películas de animación planteaban el problema de los costes inactivos: la gente que trabajaba para la película no dejaba de trabajar después de hacerla, como era habitual en las películas convencionales, y había que pensar en mantenerlas activas. Al mismo tiempo, las historias tenían su propia lógica, y no siempre era fácil encadenar proyectos. ¿Cómo podían resolver ese problema?
