@@ -1,0 +1,7 @@
+# Concept
+
+Utilizando la analogía con lo que suelen denominarse "trastornos de la personalidad", merece la pena revisar la forma en la que hacemos productos desde esa perspectiva.
+
+Las "revista" y las "portadas" suelen ayudar a una cierta construcción psicológica sobre arquetipos. A veces tomamos esas vidas como nuestra propia vida, y actúamos como si estuviéramos en el mismo contexto: nos creemos estrellas del cine, y vivimos como ellas; nos creemos jugadore de fútbol, y vivimos como ellos, etc. Las empresas que triunfan también producen esos efectos, y se suelen tomar principios que nacen de su realidad como principios que se pueden utilizar en otras realidades.  Incluso, a veces no miramos ya la realidad de nuestro producto, sino que siempre lo hacemos adulterado por lo otro. Los preparamos para cuando tengan millones de clientes; los preparamos para que puedan entenderse con distintos idiomas; los preparamos para que todas las decisiones salgan de los datos...
+
+Trueba publicó hace poco un artículo en el que hacía un elogio de la vida a partir de los otros, como la forma de sacar lo mejor de nosotros. Al mismo tiempo, hay siempre algo en nuestra realidad que es inconmensurable, que no es extrapolable, que no admite un patrón de analogía, que pide ser el principio de razón. Es un equilibrio difícil pero es necesario si no queremos caer en demasiados desórdenes de producto.
