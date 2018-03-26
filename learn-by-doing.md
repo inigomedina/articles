@@ -12,6 +12,6 @@ There is a kind of magic when something just happens. Things have their own life
 
 In 1962 Kenneth Arrow published his famous article _The Economic Implications of Learning by Doing_. As always, the great economist brought his voice to the page with a wonderful writing style: clear, concise, and honest. And once again he tried to tackle the tough questions enriching the economics perspective with contributions from other fields. That same year he published _Economic Welfare and the Allocation of Resources for Invention_ as well. Not bad.
 
-With the first article Arrow laid the foundations of what we now know as endogenous growth theory.
+With the first article Arrow laid the foundations of what we know as endogenous growth theory.
 
 
