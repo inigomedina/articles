@@ -1,3 +1,5 @@
 # Concepto
 
 En el libro _From Pixar and Beyond_ el autor explica cómo en la industria del cine las películas de animación planteaban el problema de los costes inactivos: la gente que trabajaba para la película no dejaba de trabajar después de hacerla, como era habitual en las películas convencionales, y había que pensar en mantenerlas activas. Al mismo tiempo, las historias tenían su propia lógica, y no siempre era fácil encadenar proyectos. ¿Cómo podían resolver ese problema?
+
+Después de Oficio y de Circunstancias, y de Revoluciones, tendría sentido hablar sobre los carrying costs, puesto que esos 3 artículos conducen a la conclusión de que muchas veces hay que volver a la pizarra, a resolver el problema, antes de lanzarse a hacer algo. Es es la analogía con la preparación del guión de Pixar. No tiene sentido empezar a trabajar sin que esa historia tenga al menos un esquema.
