@@ -9,4 +9,4 @@ Las ideas de Christensen sobre los tipos de disrupciones son muy útiles en este
 Goals:
 
 - la hoja en blanco no debe estar desconectada de las circunstancias
-- la hoja en blanco te lleva a buscar una disrupción muchas veces en términos de experience, facilidad o abaratamiento
+- la hoja en blanco te lleva a buscar una disrupción muchas veces en términos de experiencia, facilidad o abaratamiento
