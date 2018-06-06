@@ -1,3 +1,3 @@
 # Recursos
 
-
+Hay cafeterías que incorporan gente dejando la misma cafetera; y pizzerías donde crecen las personas que giran alrededor del mismo horno... Es un problema habitual de cuello de botella. Está planteado desde un marco que suele utilizarse para entender los equipos: los recursos. En el libro sobre Pixar...
